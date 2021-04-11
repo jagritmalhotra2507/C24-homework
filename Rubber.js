@@ -27,7 +27,7 @@ class Rubber{
 			stroke("blue");
 			fill("white");
 			//draw the ellipse here to display the rubber ball
-                        ellipse(430,555,this.r,this.r);
+                        ellipse(0,0,this.r,this.r);
 			pop()
 
 			
